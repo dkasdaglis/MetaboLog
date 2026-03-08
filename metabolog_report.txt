@@ -1,0 +1,7 @@
+--- CLINIC DAILY REPORT: HealthData Center ---
+
+Average Clinic Sleep: 5.7 hours
+
+HIGH GLUCOSE ALERT (>100 mg/dL):
+- Patient: George | Glucose: 110 mg/dL
+- Patient: Nikos | Glucose: 125 mg/dL
